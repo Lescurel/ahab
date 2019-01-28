@@ -13,3 +13,10 @@ Using a shallow LSTM network :
 # Colab
 
 The ipynb file is supposed to run on Google Colab
+
+# IDEAS
+
+Training is quite slow, ideas :
+- [ ] use GPU
+- [ ] use sparse_softmax 
+- [ ] Use less LSTM cells, but bigger 

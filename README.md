@@ -20,3 +20,5 @@ Training is quite slow, ideas :
 - [ ] use GPU
 - [ ] use sparse_softmax 
 - [ ] Use less LSTM cells, but bigger 
+- [ ] Use different optimizer
+- [ ] Bigger LR, with ReduceLROnPlateau
